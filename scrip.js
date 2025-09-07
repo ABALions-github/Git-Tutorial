@@ -1,2 +1,1 @@
-console.log('hello');
-console.log('Version 3')
+console.log('hello')
